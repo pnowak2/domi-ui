@@ -7,7 +7,7 @@ const fractal = module.exports = require('@frctl/fractal').create();
 fractal.set('project.title', 'Domi UI');
 
 /* Tell Fractal where the components will live */
-fractal.components.set('path', __dirname + '/src/components');
+fractal.components.set('path', __dirname + '/src/packages');
 
 /* Tell Fractal where the documentation pages will live */
 fractal.docs.set('path', __dirname + '/src/docs');
