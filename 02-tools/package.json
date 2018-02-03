@@ -1,0 +1,17 @@
+{
+  "name": "@domi-ui/dm-base",
+  "version": "0.0.1",
+  "description": "Domi Base",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Piotr Nowak",
+  "license": "ISC",
+  "dependencies": {
+    "@domi-ui/dm-settings": "0.0.1"
+  }
+}

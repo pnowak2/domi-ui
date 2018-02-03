@@ -1,15 +1,16 @@
 {
-  "name": "dm-alert",
+  "name": "@domi-ui/dm-base",
   "version": "0.0.1",
-  "description": "Alert Component",
+  "description": "Domi Base",
   "main": "index.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "alert",
-    "component"
+    "css"
   ],
   "author": "Piotr Nowak",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+  }
 }
