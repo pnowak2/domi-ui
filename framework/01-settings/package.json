@@ -1,7 +1,7 @@
 {
-  "name": "@domi-ui/dm-base",
+  "name": "@domi-ui/dm-settings",
   "version": "0.0.1",
-  "description": "Domi Base",
+  "description": "Domi Settings",
   "main": "index.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
